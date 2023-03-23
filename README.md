@@ -5,7 +5,7 @@ This project constitutes of all the Legacy Data Structures and Containers
 Implemented by Siddhant Gupta.
 
 
-## Authors
+## Author
 
 - [@Siddhant Gupta](https://github.com/SiddhantGupta799)
 
